@@ -4,9 +4,4 @@
 
 <style>
 
-#extra
-{
-    @apply col-span-2;
-}
-
 </style>

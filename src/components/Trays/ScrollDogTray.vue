@@ -5,9 +5,5 @@
 
 <style>
 
-#scroll
-{
-    @apply row-span-2;
-}
 
 </style>

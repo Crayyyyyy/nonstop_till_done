@@ -4,9 +4,4 @@
 
 <style>
 
-    #certificates
-    {
-        @apply col-span-2;
-    }
-
 </style>
